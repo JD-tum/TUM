@@ -9,7 +9,7 @@ comparison of four forecasting models.
 
 | Path | Contents |
 |---|---|
-| `MasterThesis_New.ipynb` | Full pipeline, all stages, with outputs |
+| `MasterThesis_New_.ipynb` | Full pipeline, all stages, with outputs |
 | `smard_data_collector.py` | Downloads the raw SMARD series |
 | `data/data.zip` | Raw source files (SMARD, Open-Meteo) |
 | `data/thesis_dataset_hourly_v4.csv.zip` | Merged dataset used for results |
