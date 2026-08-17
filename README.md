@@ -1,10 +1,5 @@
 # Post-Exit Deviations in German Electricity Demand and Residual Load
 
-Master's thesis, Technical University of Munich;
-Professor: Prof. Dr. Ziyue Li;
-Supervisor: Zhenyu Wang;
-Author: Diehle Jan
-
 Deep-learning analysis of German electricity demand and residual load
 around the April 2023 nuclear phase-out. Three parts: mutual information
 feature screening, pre- versus post-exit deviation analysis, and a
